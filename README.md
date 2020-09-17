@@ -9,13 +9,13 @@
 OS X & Linux:
 
 ```sh
-npm install --save
+npm install or yarn
 ```
 
 Windows:
 
 ```sh
-npm install --save
+npm install or yarn
 ```
 
 <p> 
